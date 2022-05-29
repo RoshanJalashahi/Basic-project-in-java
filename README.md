@@ -1,5 +1,5 @@
 # Basic-project-in-java
-this is some basic java projects for beginners
+these are some basic java projects for beginners
 to run this on your machine :
 1)Download intellij idea/eclipse
 1)Install Java SDK on your machine
